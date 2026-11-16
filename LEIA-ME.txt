@@ -1,0 +1,17 @@
+SEGURANÇA DIGITAL — PACOTE COMPLETO
+
+CONTEÚDO DO ZIP
+- site/index.html: guia educativo e informativo sobre segurança digital. O site funciona localmente, sem instalação e sem internet para abrir (os links de fontes externas exigem conexão).
+- documentos/Projeto_Completo.md: documento completo de planejamento, organização e execução do projeto.
+- materiais/Guia_Rapido_Participantes.md: material de apoio para participantes.
+- materiais/Cartoes_Dinamica.md: atividade prática com exemplos fictícios.
+
+COMO VISUALIZAR O SITE
+1. Extraia o arquivo ZIP.
+2. Abra a pasta "site".
+3. Abra o arquivo "index.html" em um navegador atualizado.
+
+SOBRE O CONTEÚDO DO SITE
+O site é exclusivamente educativo e informativo. Ele explica segurança digital, golpes virtuais, fraudes pelo WhatsApp, links e promoções falsas, falsas centrais bancárias, Pix e pagamentos, proteção de senhas e dados pessoais, identificação de mensagens suspeitas e providências após uma fraude.
+
+O site não apresenta a organização, a equipe, a proposta, o planejamento ou a implementação do projeto. Essas informações permanecem nos documentos próprios do pacote.
